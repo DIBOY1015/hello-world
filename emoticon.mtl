@@ -1,0 +1,223 @@
+newmtl Default
+Kd 0.5 0.5 0.5
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Default
+Kd 0.772549 0.65098 0.537255
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd C:Users/Public/Pixologic/GoZProjects/Default/yubaba1_TXTR.tif
+
+newmtl Default
+Kd 0.5 0.5 0.5
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl Bone
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl body
+Kd 1 0.4 0.4
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.115 0.115 0.115
+Ns 200
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl eyebrow
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl eyes
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.8 0.8 0.8
+Ns 720
+Tr 0
+d 1
+Ni 1.6
+Tf 1 1 1
+
+newmtl glass
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 0 0 0
+Ks 0.8 0.8 0.8
+Ns 720
+Tr 0.245
+d 0.755
+Ni 1.6
+Tf 1 1 1
+
+newmtl iris
+Kd 0.745098 0.45098 0.270588
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd iris.jpg
+
+newmtl mouth
+Kd 0.505882 0.254902 0.32549
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl ribbon
+Kd 0.87451 0.356863 0.917647
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl wingdevil
+Kd 0.113725 0.109804 0.0941176
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.395 0.395 0.395
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl body
+Kd 0.8 0.745098 0.0509804
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl eyebrow
+Kd 0 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl eyes
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 1 1 1
+Ks 0.8 0.8 0.8
+Ns 720
+Tr 0
+d 1
+Ni 1.6
+Tf 1 1 1
+
+newmtl glass
+Kd 0.784314 0.784314 0.784314
+Ke 0 0 0
+Ka 0 0 0
+Ks 0.8 0.8 0.8
+Ns 720
+Tr 0.245
+d 0.755
+Ni 1.6
+Tf 1 1 1
+
+newmtl heart
+Kd 0.933333 0 0
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl iris
+Kd 0.745098 0.45098 0.270588
+Ke 0 0 0
+Ka 1 1 1
+Ks 0 0 0
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+map_Kd iris.jpg
+
+newmtl mouth
+Kd 0.694118 0.321569 0.462745
+Ke 0 0 0
+Ka 1 1 1
+Ks 1 1 1
+Ns 400
+Tr 0
+d 1
+Ni 1
+Tf 1 1 1
+
+newmtl sweat
+Kd 0.505882 0.733333 0.988235
+Ke 0 0 0
+Ka 0.8 0.8 0.8
+Ks 1 1 1
+Ns 50
+Tr 0.37
+d 0.63
+Ni 1
+Tf 1 1 1
+
